@@ -1,0 +1,19 @@
+{
+  "name": "datamining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DataMining.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "jquery": "^2.2.1",
+    "knex": "^0.10.0",
+    "node-jsonp": "^1.0.2",
+    "pg": "^4.5.1",
+    "request": "^2.69.0"
+  }
+}
